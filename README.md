@@ -73,6 +73,7 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677789/clone.png" alt="clone this repository" />
 
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541680477/clonefromstartpage.png" alt="copy URL to clipboard" />
+
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541680927/clone3.png" alt="copy URL to clipboard" />
 
 
