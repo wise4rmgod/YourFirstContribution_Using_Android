@@ -73,6 +73,8 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677789/clone.png" alt="clone this repository" />
 
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541680477/clonefromstartpage.png" alt="copy URL to clipboard" />
+<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541680927/clone3.png" alt="copy URL to clipboard" />
+
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
@@ -96,7 +98,7 @@ Now open `Strings` in your android studio, add your name to it. Put it anywhere 
 
 Follow the steps below 
 
-<img  width="450" src="<img  width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541679292/commitbutton.png" alt="git status" />" alt="git status" />
+<img  width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541679292/commitbutton.png" alt="git status" />
 
 Click the little button beside the commit then you will see "commit and push",click the commit and push button and proceed.
 
