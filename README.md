@@ -51,11 +51,12 @@ It's always hard the first time you do something new. Especially when you are co
 
 
 
-<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541676982/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
+
+<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541676982/fork.png" alt="fork this repository" />
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
@@ -71,7 +72,7 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677789/clone.png" alt="clone this repository" />
 
-<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677697/cloneandroid_github.png" alt="copy URL to clipboard" />
+<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541680477/clonefromstartpage.png" alt="copy URL to clipboard" />
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
@@ -79,7 +80,10 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 Change to the repository directory in your android studio (if you are not already there):
 
+<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541680625/clickmaster.png" alt="copy URL to clipboard" />
+
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677473/create_branche.png" alt="copy URL to clipboard" />
+
 
 ## Make necessary changes and commit those changes
 
@@ -91,7 +95,8 @@ Now open `Strings` in your android studio, add your name to it. Put it anywhere 
 ## Push changes to GitHub
 
 Follow the steps below 
-<img  width="450" src="<img  width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677510/addname_here.png" alt="git status" />" alt="git status" />
+
+<img  width="450" src="<img  width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541679292/commitbutton.png" alt="git status" />" alt="git status" />
 
 Click the little button beside the commit then you will see "commit and push",click the commit and push button and proceed.
 
