@@ -70,7 +70,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 ```
 ```
-<img align="right" width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541676847/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541678567/copy-to-clipboard.png" alt="copy URL to clipboard" />
 ```
 ```
 <img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677697/cloneandroid_github.png" alt="copy URL to clipboard" />
