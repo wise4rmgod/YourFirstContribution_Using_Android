@@ -131,4 +131,4 @@ Celebrate your contribution and share it with your friends
 
 ## Acknowledgement
 
-[credit ](https://github.com/firstcontributions/first-contributions)
+* [Roshanjossey](https://github.com/firstcontributions/first-contributions)
