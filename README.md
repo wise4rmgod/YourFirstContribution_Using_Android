@@ -62,7 +62,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541676846/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677789/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -73,19 +73,19 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 <img align="right" width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541676847/copy-to-clipboard.png" alt="copy URL to clipboard" />
 ```
 ```
-<img align="right" width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677697/cloneandroid_github.png" alt="copy URL to clipboard" />
+<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677697/cloneandroid_github.png" alt="copy URL to clipboard" />
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 ## Create a branch
 
 Change to the repository directory in your android studio (if you are not already there):
 
-<img align="right" width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677473/create_branche.png" alt="copy URL to clipboard" />
+<img  width="300" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677473/create_branche.png" alt="copy URL to clipboard" />
 
 ## Make necessary changes and commit those changes
 
 Now open `Strings` in your android studio, add your name to it. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677510/addname_here.png" alt="git status" />
+<img  width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541677510/addname_here.png" alt="git status" />
 
 
 If you go to the project directory , you'll see there are changes.
