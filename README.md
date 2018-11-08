@@ -129,6 +129,6 @@ Celebrate your contribution and share it with your friends
 
 <img style="float: right;" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541680051/celebration.gif" alt="submit pull request" />
 
-## Credit 
+## Acknowledgement
 
 [credit ](https://github.com/firstcontributions/first-contributions)
