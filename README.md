@@ -99,7 +99,7 @@ Now open `Strings` in your android studio, add your name to it. Put it anywhere 
 
 Follow the steps below 
 
-<img  width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541679292/commitbutton.png" alt="git status" />
+<img  width="450" src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541788845/commitstart.png" alt="git status" />
 
 Click the little button beside the commit then you will see "commit and push",click the commit and push button and proceed.
 
